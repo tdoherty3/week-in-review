@@ -6,7 +6,7 @@
 
 ## Description
 
-_{We practicing: ___________ }_
+_{We were practicing: ___________ }_
 
 ## Setup/Installation Requirements
 
